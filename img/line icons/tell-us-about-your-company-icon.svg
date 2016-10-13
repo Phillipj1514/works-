@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="166px" height="154px" viewBox="0 0 166 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>tell us about your company icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="63 64.1002604 71.75 72.8177083 97.5566667 47.1070486 88.8066667 38.3896007"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="38.5566667" height="38.4281076">
+            <rect x="61" y="36.3896007" width="38.5566667" height="38.4281076" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Landing-page-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Customer-Registration---Screen-3c" transform="translate(-459.000000, -382.000000)">
+            <g id="tell-us-about-your-company-icon" transform="translate(461.000000, 384.000000)">
+                <g id="Group-3">
+                    <circle id="Oval-1" stroke="#FE9800" stroke-width="3" cx="75" cy="75" r="75"></circle>
+                    <g id="Group-2" transform="translate(116.000000, 100.000000)">
+                        <rect id="Rectangle-6" fill="#FE9800" x="0" y="0" width="48" height="48" rx="5"></rect>
+                        <text id="2." font-family="Raleway-Medium, Raleway" font-size="35" font-weight="400" fill="#FFFFFF">
+                            <tspan x="15.1025" y="34">2.</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="pencil&amp;form" transform="translate(26.000000, 28.604167)">
+                    <g id="form" transform="translate(0.000000, 0.395833)">
+                        <polygon id="Shape" points="0 0 94.7692308 0 94.7692308 94.4166667 0 94.4166667"></polygon>
+                        <path d="M75.025641,11.8020833 L58.52,11.8020833 C56.8615385,7.23861111 52.5179487,3.93402778 47.3846154,3.93402778 C42.2512821,3.93402778 37.9076923,7.23861111 36.2492308,11.8020833 L19.7435897,11.8020833 C15.4,11.8020833 11.8461538,15.3427083 11.8461538,19.6701389 L11.8461538,74.7465278 C11.8461538,79.0739583 15.4,82.6145833 19.7435897,82.6145833 L75.025641,82.6145833 C79.3692308,82.6145833 82.9230769,79.0739583 82.9230769,74.7465278 L82.9230769,19.6701389 C82.9230769,15.3427083 79.3692308,11.8020833 75.025641,11.8020833 L75.025641,11.8020833 Z" id="Path" stroke="#FE9800" stroke-width="3"></path>
+                        <path d="M47.3846154,11.8020833 C49.5564103,11.8020833 51.3333333,13.5723958 51.3333333,15.7361111 C51.3333333,17.8998264 49.5564103,19.6701389 47.3846154,19.6701389 C45.2128205,19.6701389 43.4358974,17.8998264 43.4358974,15.7361111 C43.4358974,13.5723958 45.2128205,11.8020833 47.3846154,11.8020833 L47.3846154,11.8020833 Z" id="Path" stroke="#FE9800" stroke-width="3"></path>
+                        <path d="M55.2820513,66.8784722 L27.6410256,66.8784722 L27.6410256,59.0104167 L55.2820513,59.0104167 L55.2820513,66.8784722 L55.2820513,66.8784722 Z M67.1282051,51.1423611 L27.6410256,51.1423611 L27.6410256,43.2743056 L67.1282051,43.2743056 L67.1282051,51.1423611 L67.1282051,51.1423611 Z M67.1282051,35.40625 L27.6410256,35.40625 L27.6410256,27.5381944 L67.1282051,27.5381944 L67.1282051,35.40625 L67.1282051,35.40625 Z" id="Shape" fill="#FE9800"></path>
+                    </g>
+                    <path d="M104.323333,40.3655556 C105.233333,39.458941 105.233333,37.9944097 104.323333,37.0877951 L98.8633333,31.6481076 C97.9533333,30.7414931 96.4833333,30.7414931 95.5733333,31.6481076 L91.3033333,35.9022222 L100.053333,44.6196701 L104.323333,40.3655556 L104.323333,40.3655556 Z" id="Path" fill="#FE9800"></path>
+                    <g id="Path">
+                        <use fill="#FE9800" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                    </g>
+                    <polygon id="Triangle-1" fill="#FE9800" transform="translate(63.237437, 72.658396) rotate(-135.000000) translate(-63.237437, -72.658396) " points="63.2374369 68.4335227 69.2478445 76.8832702 57.2270292 76.8832702"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

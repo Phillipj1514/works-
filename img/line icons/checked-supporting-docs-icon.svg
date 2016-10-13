@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="46px" height="39px" viewBox="0 0 46 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>checked supporting docs icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing-page-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Customer-Registration---Screen-3c" transform="translate(-688.000000, -360.000000)">
+            <g id="checked-supporting-docs-icon" transform="translate(688.000000, 360.000000)">
+                <g id="Group">
+                    <path d="M27.6666667,5.29418932 L8.66666667,5.29418932 C6.925,5.29418932 5.5,7.04951618 5.5,9.19491566 L5.5,32.5992737 C5.5,34.7446731 6.925,36.5 8.66666667,36.5 L27.6666667,36.5 C29.4083333,36.5 30.8333333,34.7446731 30.8333333,32.5992737 L30.8333333,9.19491566 C30.8333333,7.04951618 29.4083333,5.29418932 27.6666667,5.29418932 L27.6666667,5.29418932 Z" id="Path" stroke="#FE9800"></path>
+                    <polygon id="Path" fill="#FE9800" points="11.3333333 22.6666667 20.6666667 22.6666667 20.6666667 20.3333333 11.3333333 20.3333333"></polygon>
+                    <polygon id="Path" fill="#FE9800" points="25.3333333 11 11.3333333 11 11.3333333 13.3333333 25.3333333 13.3333333"></polygon>
+                    <polygon id="Path" fill="#FE9800" points="25.3333333 15.6666667 11.3333333 15.6666667 11.3333333 18 25.3333333 18"></polygon>
+                    <path d="M0.772216797,0.505371094 L0.772216797,29.8952637 C0.772216797,30.5005697 1.01049805,31.7111818 2.62963867,31.7111818 C9.92619803,31.7111818 24.5193167,31.7111818 24.5193167,31.7111818" id="Path-117" stroke="#FE9800" transform="translate(12.645767, 16.108276) scale(1, -1) translate(-12.645767, -16.108276) "></path>
+                </g>
+                <g id="check" transform="translate(19.000000, 17.000000)" stroke-width="2" stroke="#FFFFFF" fill="#FE9800">
+                    <polygon id="Shape" points="21.3512602 0 8.7171055 12.5953311 3.73535156 7.60265532 0 11.179499 8.71710526 19.8966043 25 3.61370957"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

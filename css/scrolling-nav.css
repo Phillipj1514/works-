@@ -1,0 +1,176 @@
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:400px) {
+    /*.navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }*/
+
+    .top-nav-collapse {
+        position: fixed;
+        /*background-color: rgba(35, 39, 49, 0.7) !important;*/
+        /*background-color: rgba(152, 184, 196, 0.52) !important;*/
+        background-color: rgba(255, 255, 255, 0.9) !important;
+        z-index: 999;
+        width: 100%;
+        padding: 10px 0 !important;
+        -webkit-box-shadow: 0px 1px 3px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 1px 3px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 0px 1px 3px 0px rgba(50, 50, 50, 0.1);
+        animation: slideInDown 0.3s ease-in-out;
+        -webkit-animation: slideInDown 0.3s ease-in-out
+    }
+
+    /*.navbar-default .navbar-toggle {*/
+        /*border-color: #F8A234;*/
+    /*}*/
+    /*.navbar-default .navbar-toggle .icon-bar {*/
+        /*background-color: #F8A234;*/
+    /*}*/
+}
+
+@-webkit-keyframes slideInDown {
+    0% {
+        -webkit-transform: translateY(-50px) translateZ(0) translateX(0) rotate(0.02deg);
+        -ms-transform: translateY(-50px) translateZ(0) translateX(0) rotate(0.02deg);
+        transform: translateY(-50px) translateZ(0) translateX(0) rotate(0.02deg);
+        opacity: 0
+    }
+
+    75% {
+        -webkit-transform: translateY(0) translateZ(0) translateX(0) rotate(0.02deg);
+        -ms-transform: translateY(0) translateZ(0) translateX(0) rotate(0.02deg);
+        transform: translateY(0) translateZ(0) translateX(0) rotate(0.02deg)
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+
+@keyframes slideInDown {
+    0% {
+        -webkit-transform: translateY(-50px) translateZ(0) translateX(0) rotate(0.02deg);
+        -ms-transform: translateY(-50px) translateZ(0) translateX(0) rotate(0.02deg);
+        transform: translateY(-50px) translateZ(0) translateX(0) rotate(0.02deg);
+        opacity: 0
+    }
+
+    75% {
+        -webkit-transform: translateY(0) translateZ(0) translateX(0) rotate(0.02deg);
+        -ms-transform: translateY(0) translateZ(0) translateX(0) rotate(0.02deg);
+        transform: translateY(0) translateZ(0) translateX(0) rotate(0.02deg)
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+
+
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+.general-section {
+    min-height: 100%;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.privacy-section {
+    min-height: 100%;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.form-section {
+    min-height: 100%;
+    padding-top: 16px;
+    padding-bottom: 80px;
+    background: url(../img/Robot-rotate-01.svg);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-attachment: fixed;
+    background-position: right bottom;
+}
+
+.contact-section {
+    min-height: 100vh;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.intro-section {
+    min-height: 100vh;
+    padding-top: 100px;
+    background: url(../img/bg1.gif) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.services-section {
+    min-height: 100%;
+    padding-top: 150px;
+    padding-bottom: 80px;
+}
+
+.proof-section {
+    min-height: 100%;
+    padding-top: 150px;
+}
+
+.about-section {
+    min-height: 100vh;
+    padding-top: 150px;
+    padding-bottom: 80px;
+}
+
+.social-section {
+    min-height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.last-section {
+    min-height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+section {
+    min-height: 100%;
+}
